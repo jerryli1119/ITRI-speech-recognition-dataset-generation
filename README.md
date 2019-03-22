@@ -6,6 +6,8 @@ Although there exists an abundance of English speech recognition datasets public
 
 ![Pipeline](/docs/DataCollectionPipeline.png)
 
+![Pipeline](https://github.com/jerryli1119/ITRI-speech-recognition-dataset-generation/blob/master/docs/DataCollectionPipeline.png)
+
 ![Pipeline](./jerryli1119/ITRI-speech-recognition-dataset-generation/docs/DataCollectionPipeline.png)
 
 ## Requirements
