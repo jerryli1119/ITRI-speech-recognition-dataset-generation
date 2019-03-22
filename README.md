@@ -6,6 +6,8 @@ Although there exists an abundance of English speech recognition datasets public
 
 ![Pipeline](/docs/DataCollectionPipeline.png)
 
+![Pipeline](/docs/DataCollectionPipeline.png)
+
 ## Requirements
 
 First, [install FFMPEG from its website](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg)
